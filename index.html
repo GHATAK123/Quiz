@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Quiz Application </title>
+  <link rel="stylesheet" href="style.css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>  
+  <div class="quiz-home-box custom-box">
+    <h4>You'll have 15 seconds to answer each question</h4>
+    <button type="button" class="start-quiz-btn btn">Start</button>
+  </div>
+
+  <div class="quiz-box custom-box">
+    <div class="stats">
+      <div class="quiz-time">
+        <div class="remaining-time"></div>
+        <span class="time-up-text">Time's Up</span>
+      </div>
+      <div class="score-board">
+          <span class="score-text">Score:</span>
+          <span class="correct-answer"></span>
+      </div>
+    </div> 
+    <div class="question-box">
+      <div class="correct-question-num">
+      
+      </div>
+      <div class="question-text">
+        
+      </div>
+    </div>
+    <div class="option-box">
+     
+
+    </div>
+    <!-- <div class="answer-description">Cool!!!</div> -->
+    <div class="next-question">
+      <button type="button" class="next-question-btn btn" >Next</button>
+      <button type="button" class="see-result-btn btn" >Result</button>
+    </div>
+  </div>
+
+  <div class="quiz-over-box custom-box">
+      <h1>Quiz Result</h1>
+      <h4>Total Question: <span class="total-questions">9</span></h4>
+      <h4>Attempt: <span class="total-attemp">8</span></h4>
+      <h4>Correct: <span class="total-correct">3</span></h4>
+      <h4>Wrong: <span class="total-wrong">5</span></h4>
+      <h4>Percentage: <span class="percentage">33.33%</span></h4>
+      <button type="button" class="start-again-quiz-btn btn">Start</button>
+      <button type="button" class="go-to-home-btn btn">Home</button>
+  </div>
+
+ 
+<script src="script.js"></script>
+</body>
+</html>
+
+
