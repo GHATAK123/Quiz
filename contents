@@ -1,0 +1,121 @@
+
+ *** question ***
+
+ --- Human Body ---
+
+        {
+         question:"Which organ belongs to the Digestive System:",
+         option:["Thymus","Stomach","Heart","Trachea"],
+         answer:1,
+        },
+        {
+        question:"Adults have fewer bones than babies do.",
+        option:["true","false"],
+         answer:0,
+         description:"Lots of bones start out as several fragments at birth,then fuse together into a single bone later in life"
+        },
+        {
+         question:"Our human body has.........",
+         option:["206 bones","210 bones","306 bones","706 bones"],
+         answer:0,
+        },
+        {
+         question:"Your fingernails and hair keep growing after you die.",
+         option:["true","false"],
+         answer:1,
+         description:"They really don't"
+        },
+        {
+         question:"One important function of bones is to produce.",
+         option:["tendons","ligaments","blood cells","cartilage"],
+         answer:2,
+        }
+
+
+--- Internation - Current Affairs ---
+
+        {
+         question:"Which of the following has become the first country to make all forms of public transport free?",
+         option:["Monaco","Liechtenstein","Luxembourg","Andorra"],
+         answer:2,
+         description:'Luxembourg in Europe has become the first country to make all forms of public transport free. It is the second smallest country in the European Union'
+        },
+        {
+         question:"Which of the following has become the first country to make all forms of public transport free?",
+         option:["Monaco","India","Japan","Singapore"],
+         answer:3,
+        },
+        {
+         question:"Which country is to host Commonwealth shooting, archery events in 2022?",
+         option:["Australia","India","Brunei","Cameroon"],
+         answer:3,
+         description:'India to host Commonwealth shooting, archery events at Chandigarh in January 2022'
+        },
+        {
+         question:"26 The International Criminal Police Organisation (INTERPOL) has its headquarters at",
+         option:["Montreal","Bonn","Paris","London"],
+         answer:2
+        },
+        {
+         question:"30 Where is the headquarters of Botanical Survey of India located?",
+         option:["Kolkata","Lucknow","Ootacmund","Darjeeling"],
+         answer:0
+        }
+
+
+--- Computer Awareness ---
+
+       {
+         question:"How many bytes are equal to one kilobyte?",
+         option:["1050","1024","1022","1000"],
+         answer:1
+        },
+        {
+         question:"Which of the following is not an input device?",
+         option:["answerboard","Monitor","Joystick","Microphone"],
+         answer:1,
+        },
+        {
+         question:"The most powerful computer is_________",
+         option:["super computer","micro computer","mini computer","all of these"],
+         answer:0
+        },
+        {
+         question:"Which of the following memories needs refresh ?",
+         option:["drom","rom","sram","all of these"],
+         answer:0
+        }
+        ,
+        {
+         question:"Every computer connected to the Internet is identified by a unique four-part string, known as",
+         option:["IP address","Host name","Domain name","None of the above"],
+         answer:0
+        }
+
+--- Sports ---
+
+        {
+         question:"When was the first Common Wealth Games held?",
+         option:["1930","1934","1938","1948"],
+         answer:0
+        },
+        {
+         question:"In which sports is the participant called pugilist?",
+         option:["Sprinter","Boxing","Wrestling","Javelin"],
+         answer:1,
+        },
+        {
+         question:"In which game the term ‘Putting’ is used?",
+         option:["Chess","Hocanswer","Golf","Billiards"],
+         answer:2
+        },
+        {
+         question:"Who was the first Test Centurion in India Cricket?",
+         option:["C.K. Naidu","Lala Amarnath","Vinu Mankad","Mansur Ali Pataudi"],
+         answer:1
+        },
+        {
+         question:"10 The number of players in each side in Water Polo is",
+         option:["6","8","9","7"],
+         answer:3
+        }
